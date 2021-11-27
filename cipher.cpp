@@ -58,6 +58,7 @@ int main()
 {
 	Cypher c = Cypher();
 	Decypher d = Decypher();
+
 	string buffer;
 	int choice, temp;
 
