@@ -20,4 +20,4 @@ Pomiary
 Wnioski
 -------
 
-Najszybszym algorytmem jest zdecydowanie Quick Sort, przebijając Bubble Sorta w przypadku 1000 elementów 75-krotnie, a w przypadku 10000 elemantów aż 700-krotnie.
+Najszybszym algorytmem jest zdecydowanie Quick Sort, przebijając Bubble Sorta w przypadku 1000 elementów 75-krotnie, a w przypadku 10000 elementów aż 700-krotnie.
